@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "isf3XbCkwwKEojMpVUnrd+sxkHNpccBjm3/egkPWoCouDEpXixQue+2zIK/iQnNakEAAtB8gSNaW6MAbWUS5vQ==",
+  "dgSpecHash": "9okHBhJeFUJVVhrxAYW6ERzNXMY4qG+88uUxUTpaaQ99X+dAWKgdDyo9520JBh10wKrNxznPtxftT5vFbcuNYw==",
   "success": true,
   "projectFilePath": "/Users/chandlercarnes/Desktop/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
   "expectedPackageFiles": [
     "/Users/chandlercarnes/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
     "/Users/chandlercarnes/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/Users/chandlercarnes/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/chandlercarnes/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.3/microsoft.netcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
     "/Users/chandlercarnes/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.3/microsoft.aspnetcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
     "/Users/chandlercarnes/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/8.0.3/microsoft.netcore.app.crossgen2.osx-arm64.8.0.3.nupkg.sha512"
